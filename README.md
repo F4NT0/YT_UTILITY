@@ -1,6 +1,6 @@
 # PROGRAMA PARA BAIXAR VIDEOS DO YOUTUBE NO LINUX
 
-
+![](https://img.shields.io/github/last-commit/F4NT0/YT_UTILITY/master) ![](https://img.shields.io/github/repo-size/F4NT0/YT_UTILITY)
 
 
 ## INSTALANDO O PROGRAMA YOUTUBE-DL
